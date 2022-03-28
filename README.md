@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Graphs a function that counts the number of iterations as a parameter.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ [< List any outside resources used >](https://stackoverflow.com/questions/14448692/how-to-find-the-maximum-number-in-a-list-using-a-loop)
+https://eng.libretexts.org/Courses/Delta_College/Introduction_to_Programming_Concepts_-_Python/05%3A_Iterations/5.09%3A_Maximum_and_Minimum_Loops
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
